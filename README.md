@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PythonWebAPP
 Python Flask Web App for Inventory Management System
 
@@ -90,3 +91,7 @@ Validation Screens
 ![validate_screen](https://user-images.githubusercontent.com/111049434/209131370-936e7193-a021-443c-b34f-8f6df5460dce.png)
 
 ![product_fail](https://user-images.githubusercontent.com/111049434/209133540-4760e86b-82d8-4fa8-b839-c29a0dbf51b7.png)
+=======
+# Automation-Testing-Inventory-Web-App-Flask-
+Inventory Web App Automation Testing Using Selenium Python
+>>>>>>> origin/main
