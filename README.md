@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # PythonWebAPP
 Python Flask Web App for Inventory Management System
 
